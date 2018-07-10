@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+.vscode
+.vs
+AllFontSymbol
+x64
+Debug
+bin
+WebClient/bin
+WebClient/obj
+/WebClient/wwwroot/generatetxt
